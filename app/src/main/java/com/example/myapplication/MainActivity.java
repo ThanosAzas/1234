@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void btnSub (View view){
-        //kalispera
+
     }
     public void btnMult (View view){
 
@@ -55,8 +55,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void btnClear (View view){
-        //kalispera
-        //Proffesor Progouli
+        //RUUUULLLEES OF NAAATUUREEE!!!!!!
 
     }
 
