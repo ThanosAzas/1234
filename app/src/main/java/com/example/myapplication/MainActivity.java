@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public void btnClear (View view){
         //kalispera
-        //oxi
+        //oxi lol
 
     }
 
