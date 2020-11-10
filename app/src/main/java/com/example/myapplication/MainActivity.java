@@ -22,12 +22,42 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void btnThree (View view){
-//isos
+
     }
     public void btnFour (View view){
 
     }
+    public void btnFive (View view){
 
-//new commit 22
+    }
+    public void btnSix (View view){
+
+    }
+    public void btnSeven (View view){
+
+    }
+    public void btnEight (View view){
+
+    }
+    public void btnNine (View view){
+
+    }
+    public void btnAdd (View view){
+
+    }
+    public void btnSub (View view){
+
+    }
+    public void btnMult (View view){
+
+    }
+    public void btnDiv (View view){
+
+    }
+    public void btnClear (View view){
+
+    }
+
+
 
 }
