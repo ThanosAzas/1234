@@ -70,8 +70,8 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-    public void nine (View view){
+   // public void nine (View view){
       //  textView.setText(TextView + "9");
-    }
+    //}
 
 }
