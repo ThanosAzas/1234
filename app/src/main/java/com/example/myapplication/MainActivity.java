@@ -24,4 +24,10 @@ public class MainActivity extends AppCompatActivity {
     public void btnThree (View view){
 //isos
     }
+    public void btnFour (View view){
+
+    }
+
+
+
 }
