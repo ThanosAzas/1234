@@ -24,4 +24,16 @@ public class MainActivity extends AppCompatActivity {
     public void btnThree (View view){
 
     }
+    public void btnFour (View view){
+
+    }
+    public void btnFive (View view){
+
+    }
+    public void btnSix (View view){
+
+    }
+    public void btnSeven (View view){
+
+    }
 }
