@@ -59,4 +59,6 @@ public class MainActivity extends AppCompatActivity {
 
     // slasher
 
+    // test numba 3. nomizw pws dexete thn MainActivity apo'mena...
+
 }
