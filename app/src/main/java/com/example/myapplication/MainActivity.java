@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void btnSub (View view){
-
+        //kalispera
     }
     public void btnMult (View view){
 
