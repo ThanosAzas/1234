@@ -60,6 +60,10 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    // re mlkes... XD tosh wra grafame se allou fakelous... XDDDDDDDDDDDDDDDDDDDDDDDD
+    // egw egrafa ekei pou o mike iexe kanei tis prwtes allages... sthn MainActivity tou project... terma katw me ton portokalokafeti kuklo...
+
+
 
 
 }
