@@ -1,7 +1,7 @@
 package com.example.myapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
-
+//import android.widget.TextView;
 import android.os.Bundle;
 import android.view.View;
 
@@ -64,6 +64,14 @@ public class MainActivity extends AppCompatActivity {
     // egw egrafa ekei pou o mike iexe kanei tis prwtes allages... sthn MainActivity tou project... terma katw me ton portokalokafeti kuklo...
 
 
+    //TextView textElement;
+   // setContentView(R.layout.activity_main)
+   // newtext = (TextView) findViewById(R.id.TextView);
 
+
+
+    public void nine (View view){
+      //  textView.setText(TextView + "9");
+    }
 
 }
