@@ -39,4 +39,20 @@ public class MainActivity extends AppCompatActivity {
     public void btnEight (View view){
 
     }
+
+    public void btnNine (View view){
+
+    }
+
+    public void btnAdd (View view){
+
+    }
+
+    public void btnSub (View view){
+
+    }
+
+    public void btnEquals (View view){
+
+    }
 }
